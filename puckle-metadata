@@ -1,3 +1,32 @@
-"name": "puckle token"
-"symbol": "PUCKLE"
-"image": 
+{
+  "name": "",
+  "symbol": "",
+  "description": "",
+  "image": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "",
+      "value": ""
+    },
+    {
+      "trait_type": "",
+      "value": ""
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": ""
+      }
+    ],
+    "category": "",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  }
+}
